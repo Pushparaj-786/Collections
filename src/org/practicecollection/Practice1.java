@@ -69,7 +69,7 @@ public class Practice1 {
 			System.out.println(y);
 			
 		}
-		
+		System.out.println("this is perf");
 		
 		
 		
